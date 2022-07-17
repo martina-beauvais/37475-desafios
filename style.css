@@ -43,6 +43,8 @@ ul{
 }.tienda{
     padding-top: 8%;
     text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
 }
 #libros{
     margin-left:8%;    
